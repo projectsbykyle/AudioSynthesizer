@@ -1,4 +1,4 @@
-# ECE45 Extra Credit Project WI24
+# Audio Synthesizer Project
 
 ## Description:
 
